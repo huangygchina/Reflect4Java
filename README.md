@@ -1,14 +1,4 @@
----
-layout:     post
-title:      Java反射机制
-subtitle:   Java反射机制应用
-date:       2017-4-24
-author:     火花
-header-img: img/post-bg-ios9-web.jpg
-catalog: true
-tags:
-    - java
----
+# Java反射机制 #
 ## 反射的源头（Class类） ##
 Class类的实例表示正在运行的Java应用程序中的类和接口。
 
